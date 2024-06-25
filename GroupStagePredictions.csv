@@ -1,0 +1,25 @@
+,Unnamed: 0,date,home_team,away_team,tournament,city,country,neutral,total_points_home,total_points_away,rank_home,rank_away,rank_difference,predicted_outcome
+0,47309,2024-06-20,Argentina,Canada,Copa América,Atlanta,United States,True,1855.2,1454.95,1.0,45.0,-44.0,1
+1,47314,2024-06-21,Peru,Chile,Copa América,Arlington,United States,True,1512.68,1489.82,33.0,42.0,-9.0,1
+2,47320,2024-06-22,Ecuador,Venezuela,Copa América,Santa Clara,United States,True,1519.2,1447.2,31.0,52.0,-21.0,0
+3,47321,2024-06-22,Mexico,Jamaica,Copa América,Houston,United States,True,1655.21,1421.54,14.0,57.0,-43.0,1
+4,47324,2024-06-23,United States,Bolivia,Copa América,Arlington,United States,False,1661.7,1284.55,13.0,86.0,-73.0,1
+5,47325,2024-06-23,Uruguay,Panama,Copa América,Miami Gardens,United States,True,1643.72,1475.62,15.0,44.0,-29.0,1
+6,47328,2024-06-24,Colombia,Paraguay,Copa América,Houston,United States,True,1655.29,1436.96,14.0,53.0,-39.0,1
+7,47329,2024-06-24,Brazil,Costa Rica,Copa América,Inglewood,United States,True,1812.2,1437.57,3.0,54.0,-51.0,0
+8,47334,2024-06-25,Peru,Canada,Copa América,Kansas City,United States,True,1512.68,1454.95,33.0,45.0,-12.0,1
+9,47335,2024-06-25,Chile,Argentina,Copa América,East Rutherford,United States,True,1503.81,1861.29,37.0,1.0,36.0,-1
+10,47341,2024-06-26,Ecuador,Jamaica,Copa América,Las Vegas,United States,True,1519.2,1421.54,31.0,57.0,-26.0,-1
+11,47342,2024-06-26,Venezuela,Mexico,Copa América,Inglewood,United States,True,1447.2,1652.7,52.0,15.0,37.0,-1
+12,47343,2024-06-27,United States,Panama,Copa América,Atlanta,United States,False,1661.7,1475.62,13.0,44.0,-31.0,1
+13,47344,2024-06-27,Uruguay,Bolivia,Copa América,East Rutherford,United States,True,1643.72,1284.55,15.0,86.0,-71.0,1
+14,47345,2024-06-28,Colombia,Costa Rica,Copa América,Glendale,United States,True,1655.29,1437.57,14.0,54.0,-40.0,1
+15,47346,2024-06-28,Paraguay,Brazil,Copa América,Las Vegas,United States,True,1436.96,1784.09,53.0,5.0,48.0,-1
+16,47349,2024-06-29,Argentina,Peru,Copa América,Miami Gardens,United States,True,1855.2,1532.57,1.0,26.0,-25.0,1
+17,47350,2024-06-29,Canada,Chile,Copa América,Orlando,United States,True,1453.76,1489.82,50.0,42.0,8.0,1
+18,47354,2024-06-30,Mexico,Ecuador,Copa América,Glendale,United States,True,1655.21,1508.31,14.0,36.0,-22.0,1
+19,47355,2024-06-30,Jamaica,Venezuela,Copa América,Austin,United States,True,1421.54,1447.2,57.0,52.0,5.0,1
+20,47358,2024-07-01,United States,Uruguay,Copa América,Kansas City,United States,False,1661.7,1643.72,13.0,15.0,-2.0,0
+21,47359,2024-07-01,Bolivia,Panama,Copa América,Orlando,United States,True,1284.55,1475.62,86.0,44.0,42.0,0
+22,47362,2024-07-02,Brazil,Colombia,Copa América,Santa Clara,United States,True,1812.2,1655.29,3.0,14.0,-11.0,1
+23,47363,2024-07-02,Costa Rica,Paraguay,Copa América,Austin,United States,True,1437.57,1436.96,54.0,53.0,1.0,1
